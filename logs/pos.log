@@ -1,0 +1,48 @@
+2025-03-31 14:05:14,241 - root - WARNING - Schema file not found. Database structure might be incomplete.
+2025-03-31 14:05:14,296 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:05:44,869 - root - WARNING - Schema file not found. Database structure might be incomplete.
+2025-03-31 14:05:44,910 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:05:51,532 - root - ERROR - Error getting user by username: 1146 (42S02): Table 'pos_db.users' doesn't exist
+2025-03-31 14:06:26,476 - root - WARNING - Schema file not found. Database structure might be incomplete.
+2025-03-31 14:06:26,511 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:06:34,082 - root - ERROR - Error getting user by username: 1146 (42S02): Table 'pos_db.users' doesn't exist
+2025-03-31 14:10:12,058 - root - INFO - Database schema initialized successfully.
+2025-03-31 14:10:12,087 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:10:20,567 - root - INFO - User admin logged in with role admin
+2025-03-31 14:10:20,567 - root - INFO - User logged in: admin
+2025-03-31 14:10:59,897 - root - INFO - Created user: Harsh with ID 2
+2025-03-31 14:11:06,568 - root - INFO - Database schema initialized successfully.
+2025-03-31 14:11:06,595 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:11:17,537 - root - INFO - User Harsh logged in with role cashier
+2025-03-31 14:11:17,538 - root - INFO - User logged in: Harsh
+2025-03-31 14:12:24,110 - root - INFO - Database schema initialized successfully.
+2025-03-31 14:12:24,142 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:12:30,313 - root - INFO - User admin logged in with role admin
+2025-03-31 14:12:30,314 - root - INFO - User logged in: admin
+2025-03-31 14:12:55,401 - root - INFO - Created product: Peanut Butter with ID 1
+2025-03-31 14:13:15,512 - root - INFO - Created product: Museli with ID 2
+2025-03-31 14:14:07,011 - root - INFO - Created sale ID 1 with 1 items
+2025-03-31 14:14:29,466 - root - INFO - Created sale ID 2 with 1 items
+2025-03-31 14:14:54,200 - root - INFO - User admin logged out
+2025-03-31 14:15:00,418 - root - INFO - User Harsh logged in with role cashier
+2025-03-31 14:15:00,418 - root - INFO - User logged in: harsh
+2025-03-31 14:16:08,027 - root - INFO - Database schema initialized successfully.
+2025-03-31 14:16:08,057 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:16:12,972 - root - INFO - User Harsh logged in with role cashier
+2025-03-31 14:16:12,972 - root - INFO - User logged in: harsh
+2025-03-31 14:16:28,888 - root - INFO - User Harsh logged out
+2025-03-31 14:16:33,854 - root - INFO - User admin logged in with role admin
+2025-03-31 14:16:33,854 - root - INFO - User logged in: admin
+2025-03-31 14:16:48,209 - root - INFO - User admin logged out
+2025-03-31 14:16:54,204 - root - INFO - User Harsh logged in with role cashier
+2025-03-31 14:16:54,205 - root - INFO - User logged in: harsh
+2025-03-31 14:18:02,449 - root - INFO - Created sale ID 3 with 1 items
+2025-03-31 14:23:39,619 - root - INFO - Database schema initialized successfully.
+2025-03-31 14:23:39,657 - root - INFO - Database connection pool created successfully.
+2025-03-31 14:23:46,599 - root - INFO - User admin logged in with role admin
+2025-03-31 14:23:46,599 - root - INFO - User logged in: admin
+2025-03-31 14:24:04,500 - root - INFO - Created user: parth with ID 3
+2025-03-31 14:24:13,217 - root - INFO - User admin logged out
+2025-03-31 14:24:20,090 - root - INFO - User parth logged in with role cashier
+2025-03-31 14:24:20,091 - root - INFO - User logged in: parth
+2025-03-31 14:24:32,802 - root - INFO - Created sale ID 4 with 1 items

@@ -1,0 +1,15 @@
+{
+    "db": {
+        "host": "localhost",
+        "port": 3306,
+        "database": "pos_db",
+        "user": "root",
+        "password": "9899"
+    },
+    "app": {
+        "name": "Infoware POS",
+        "version": "1.0.0",
+        "log_level": "INFO",
+        "theme": "light"
+    }
+}
